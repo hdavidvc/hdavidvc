@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hdavidvc" target="blank"><img src="https://img.shields.io/twitter/follow/hdavidvc?logo=twitter&style=for-the-badge" alt="hdavidvc" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando como **Consultor**
+- 🔭 Actualmente estoy trabajando como **Desarrollador**
 
-- 🌱 Actualmente estoy aprendiendo **Azure**
+- 🌱 Actualmente estoy aprendiendo **.Net**
 
 - 📝 Regularmente escribo artículos en [https://bitacoratech.com/](https://bitacoratech.com/)
 
